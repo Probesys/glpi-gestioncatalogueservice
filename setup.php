@@ -92,7 +92,7 @@ function plugin_version_gestioncatalogueservice() {
       return array(	'name' => 'Gestion Catalogue de Service',
 					'version' => '0.84.0',
 					'author' => 'Philippe Godot, Maxime Bonillo',
-					'license' => 'GPLv2+',
+					'license' => 'GPLv3+',
 					'homepage' => 'http://www.probesys.com/',
 					'minGlpiVersion' => '0.84', // For compatibility / no install in version < 0.84
       );

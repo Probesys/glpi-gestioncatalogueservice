@@ -1,0 +1,46 @@
+<root>
+   <name>Gestion Catalogue De Service</name>
+   <key>catalogueservices</key>
+   <state>stable</state>
+   <logo>https://forge.indepnet.net/attachments/740/logo.png</logo>
+   <description>
+      <short>
+         <fr><![CDATA[Le plugin gestioncatalogueservices est un plugin permettant de gérer un ensemble de catalogues de service. Il permet de définir le délai théorique de résolution d'un ticket en fonction d'attributs de ce dernier (catégorie, technicien etc .. ).]]></fr>
+         <en><![CDATA[Gestioncatalogueservices plugin is a plugin to manage a whole set of services catalogs. It sets the theoretical deadline for the resolution of a ticket based on its attributes (tags, technician, etc. ..).]]></en>
+      </short>
+      <long>
+         <fr><![CDATA[Le plugin gestioncatalogueservices est un plugin permettant de gérer un ensemble de catalogues de service. Il permet de définir le délai théorique de résolution d'un ticket en fonction d'attributs de ce dernier (catégorie, technicien etc .. ).]]></fr>
+         <en><![CDATA[Gestioncatalogueservices plugin is a plugin to manage a whole set of services catalogs. It sets the theoretical deadline for the resolution of a ticket based on its attributes (tags, technician, etc. ..).]]></en>
+      </long>
+   </description>
+   <homepage>https://github.com/Probesys/glpi-plugins-gestioncatalogueservices</homepage>
+   <download>https://github.com/Probesys/glpi-plugins-gestioncatalogueservices/releases</download>
+   <issues>https://github.com/Probesys/glpi-plugins-gestioncatalogueservices/issues</issues>
+   <readme>https://github.com/Probesys/glpi-plugins-gestioncatalogueservices/README.md</readme>
+
+   <authors>
+      <author>Philippe GODOT, Maxime BONILLO</author>
+   </authors>
+   <versions>
+	<version>
+          <num>0.84.0</num>
+          <compatibility>0.94</compatibility>
+    	</version>
+   </versions>
+   <langs>
+      <lang>fr_FR</lang>
+      <lang>en_GB</lang>
+      <lang>ru_RU</lang>
+      <lang>pt_BR</lang>
+   </langs>
+   <license><![CDATA[GPL v3+]]></license>
+   <tags>
+         <fr>
+            <tag>Helpdesk</tag>
+         </fr>
+         <en>
+            <tag>Helpdesk</tag>
+         </en>
+   </tags>
+</root>
+

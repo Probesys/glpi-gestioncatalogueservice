@@ -19,7 +19,9 @@
    <readme>https://github.com/Probesys/glpi-plugins-gestioncatalogueservices/README.md</readme>
 
    <authors>
-      <author>Philippe GODOT, Maxime BONILLO</author>
+	   <author>Probesys</author>
+	   <author>Philippe GODOT</author>
+	   <author>Maxime BONILLO</author>
    </authors>
    <versions>
 	<version>
